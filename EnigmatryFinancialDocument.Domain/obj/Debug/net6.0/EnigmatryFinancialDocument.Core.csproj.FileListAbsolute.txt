@@ -1,0 +1,12 @@
+C:\Users\Korisnik\source\repos\EnigmatryFinancialDocument\EnigmatryFinancialDocument.Domain\obj\Debug\net6.0\EnigmatryFinancialDocument.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\source\repos\EnigmatryFinancialDocument\EnigmatryFinancialDocument.Domain\obj\Debug\net6.0\EnigmatryFinancialDocument.Core.AssemblyInfoInputs.cache
+C:\Users\Korisnik\source\repos\EnigmatryFinancialDocument\EnigmatryFinancialDocument.Domain\obj\Debug\net6.0\EnigmatryFinancialDocument.Core.AssemblyInfo.cs
+C:\Users\Korisnik\source\repos\EnigmatryFinancialDocument\EnigmatryFinancialDocument.Domain\obj\Debug\net6.0\EnigmatryFinancialDocument.Core.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\EnigmatryFinancialDocument\EnigmatryFinancialDocument.Domain\obj\Debug\net6.0\EnigmatryFinancialDocument.Core.sourcelink.json
+C:\Users\Korisnik\source\repos\EnigmatryFinancialDocument\EnigmatryFinancialDocument.Domain\bin\Debug\net6.0\EnigmatryFinancialDocument.Core.deps.json
+C:\Users\Korisnik\source\repos\EnigmatryFinancialDocument\EnigmatryFinancialDocument.Domain\bin\Debug\net6.0\EnigmatryFinancialDocument.Core.dll
+C:\Users\Korisnik\source\repos\EnigmatryFinancialDocument\EnigmatryFinancialDocument.Domain\bin\Debug\net6.0\EnigmatryFinancialDocument.Core.pdb
+C:\Users\Korisnik\source\repos\EnigmatryFinancialDocument\EnigmatryFinancialDocument.Domain\obj\Debug\net6.0\EnigmatryFinancialDocument.Core.dll
+C:\Users\Korisnik\source\repos\EnigmatryFinancialDocument\EnigmatryFinancialDocument.Domain\obj\Debug\net6.0\refint\EnigmatryFinancialDocument.Core.dll
+C:\Users\Korisnik\source\repos\EnigmatryFinancialDocument\EnigmatryFinancialDocument.Domain\obj\Debug\net6.0\EnigmatryFinancialDocument.Core.pdb
+C:\Users\Korisnik\source\repos\EnigmatryFinancialDocument\EnigmatryFinancialDocument.Domain\obj\Debug\net6.0\ref\EnigmatryFinancialDocument.Core.dll

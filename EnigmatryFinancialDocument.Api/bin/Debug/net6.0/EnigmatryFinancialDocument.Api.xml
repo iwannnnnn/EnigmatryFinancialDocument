@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EnigmatryFinancialDocument.Api</name>
+    </assembly>
+    <members>
+        <member name="M:EnigmatryFinancialDocument.Api.Controllers.FinancialDocumentsController.GetFinancialDocument(EnigmatryFinancialDocument.Application.Handlers.FinancialDocument.Query.GetFinancialDocumentQuery)">
+            <summary>
+            Gets a financial document based on the provided query parameters.
+            </summary>
+            <param name="query">The query parameters for retrieving the financial document.</param>
+            <returns>The financial document response.</returns>
+            <response code="200">Returns the financial document</response>
+            <response code="403">If the request is forbidden</response>
+            <response code="404">If the document is not found</response>
+        </member>
+    </members>
+</doc>

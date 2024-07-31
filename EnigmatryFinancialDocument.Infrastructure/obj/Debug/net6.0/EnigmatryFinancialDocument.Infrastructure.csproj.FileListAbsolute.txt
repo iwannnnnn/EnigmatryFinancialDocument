@@ -1,0 +1,16 @@
+C:\Users\Korisnik\source\repos\EnigmatryFinancialDocument\EnigmatryFinancialDocument.Infrastructure\obj\Debug\net6.0\EnigmatryFinancialDocument.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\EnigmatryFinancialDocument\EnigmatryFinancialDocument.Infrastructure\obj\Debug\net6.0\EnigmatryFinancialDocument.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\source\repos\EnigmatryFinancialDocument\EnigmatryFinancialDocument.Infrastructure\obj\Debug\net6.0\EnigmatryFinancialDocument.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Korisnik\source\repos\EnigmatryFinancialDocument\EnigmatryFinancialDocument.Infrastructure\obj\Debug\net6.0\EnigmatryFinancialDocument.Infrastructure.AssemblyInfo.cs
+C:\Users\Korisnik\source\repos\EnigmatryFinancialDocument\EnigmatryFinancialDocument.Infrastructure\obj\Debug\net6.0\EnigmatryFinancialDocument.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\EnigmatryFinancialDocument\EnigmatryFinancialDocument.Infrastructure\obj\Debug\net6.0\EnigmatryFinancialDocument.Infrastructure.sourcelink.json
+C:\Users\Korisnik\source\repos\EnigmatryFinancialDocument\EnigmatryFinancialDocument.Infrastructure\bin\Debug\net6.0\EnigmatryFinancialDocument.Infrastructure.deps.json
+C:\Users\Korisnik\source\repos\EnigmatryFinancialDocument\EnigmatryFinancialDocument.Infrastructure\bin\Debug\net6.0\EnigmatryFinancialDocument.Infrastructure.dll
+C:\Users\Korisnik\source\repos\EnigmatryFinancialDocument\EnigmatryFinancialDocument.Infrastructure\bin\Debug\net6.0\EnigmatryFinancialDocument.Infrastructure.pdb
+C:\Users\Korisnik\source\repos\EnigmatryFinancialDocument\EnigmatryFinancialDocument.Infrastructure\bin\Debug\net6.0\EnigmatryFinancialDocument.Core.dll
+C:\Users\Korisnik\source\repos\EnigmatryFinancialDocument\EnigmatryFinancialDocument.Infrastructure\bin\Debug\net6.0\EnigmatryFinancialDocument.Core.pdb
+C:\Users\Korisnik\source\repos\EnigmatryFinancialDocument\EnigmatryFinancialDocument.Infrastructure\obj\Debug\net6.0\Enigmatr.5F9405D3.Up2Date
+C:\Users\Korisnik\source\repos\EnigmatryFinancialDocument\EnigmatryFinancialDocument.Infrastructure\obj\Debug\net6.0\EnigmatryFinancialDocument.Infrastructure.dll
+C:\Users\Korisnik\source\repos\EnigmatryFinancialDocument\EnigmatryFinancialDocument.Infrastructure\obj\Debug\net6.0\refint\EnigmatryFinancialDocument.Infrastructure.dll
+C:\Users\Korisnik\source\repos\EnigmatryFinancialDocument\EnigmatryFinancialDocument.Infrastructure\obj\Debug\net6.0\EnigmatryFinancialDocument.Infrastructure.pdb
+C:\Users\Korisnik\source\repos\EnigmatryFinancialDocument\EnigmatryFinancialDocument.Infrastructure\obj\Debug\net6.0\ref\EnigmatryFinancialDocument.Infrastructure.dll

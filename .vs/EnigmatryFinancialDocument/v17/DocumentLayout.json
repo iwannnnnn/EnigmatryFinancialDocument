@@ -1,0 +1,708 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D96C55C-DA8A-4818-8BC8-B1789717973A}|EnigmatryFinancialDocument.Test\\EnigmatryFinancialDocument.Test.csproj|c:\\users\\korisnik\\source\\repos\\enigmatryfinancialdocument\\enigmatryfinancialdocument.test\\getfinancialdocumentqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D96C55C-DA8A-4818-8BC8-B1789717973A}|EnigmatryFinancialDocument.Test\\EnigmatryFinancialDocument.Test.csproj|solutionrelative:enigmatryfinancialdocument.test\\getfinancialdocumentqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935CA85D-9411-4BBF-84BF-080B453CA666}|EnigmatryFinancialDocument.Domain\\EnigmatryFinancialDocument.Core.csproj|c:\\users\\korisnik\\source\\repos\\enigmatryfinancialdocument\\enigmatryfinancialdocument.domain\\interfaces\\services\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935CA85D-9411-4BBF-84BF-080B453CA666}|EnigmatryFinancialDocument.Domain\\EnigmatryFinancialDocument.Core.csproj|solutionrelative:enigmatryfinancialdocument.domain\\interfaces\\services\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F1E49A-296E-4ABE-9655-8F1AB783424F}|EnigmatryFinancialDocument.Application\\EnigmatryFinancialDocument.Application.csproj|c:\\users\\korisnik\\source\\repos\\enigmatryfinancialdocument\\enigmatryfinancialdocument.application\\handlers\\financialdocument\\query\\financialdocumentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11F1E49A-296E-4ABE-9655-8F1AB783424F}|EnigmatryFinancialDocument.Application\\EnigmatryFinancialDocument.Application.csproj|solutionrelative:enigmatryfinancialdocument.application\\handlers\\financialdocument\\query\\financialdocumentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935CA85D-9411-4BBF-84BF-080B453CA666}|EnigmatryFinancialDocument.Domain\\EnigmatryFinancialDocument.Core.csproj|c:\\users\\korisnik\\source\\repos\\enigmatryfinancialdocument\\enigmatryfinancialdocument.domain\\dtos\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935CA85D-9411-4BBF-84BF-080B453CA666}|EnigmatryFinancialDocument.Domain\\EnigmatryFinancialDocument.Core.csproj|solutionrelative:enigmatryfinancialdocument.domain\\dtos\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11696710-69D4-4608-9215-5E22C55C4FFB}|EnigmatryFinancialDocument.Api\\EnigmatryFinancialDocument.Api.csproj|c:\\users\\korisnik\\source\\repos\\enigmatryfinancialdocument\\enigmatryfinancialdocument.api\\controllers\\financialdocumentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11696710-69D4-4608-9215-5E22C55C4FFB}|EnigmatryFinancialDocument.Api\\EnigmatryFinancialDocument.Api.csproj|solutionrelative:enigmatryfinancialdocument.api\\controllers\\financialdocumentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F1E49A-296E-4ABE-9655-8F1AB783424F}|EnigmatryFinancialDocument.Application\\EnigmatryFinancialDocument.Application.csproj|c:\\users\\korisnik\\source\\repos\\enigmatryfinancialdocument\\enigmatryfinancialdocument.application\\handlers\\financialdocument\\query\\getfinancialdocumentqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11F1E49A-296E-4ABE-9655-8F1AB783424F}|EnigmatryFinancialDocument.Application\\EnigmatryFinancialDocument.Application.csproj|solutionrelative:enigmatryfinancialdocument.application\\handlers\\financialdocument\\query\\getfinancialdocumentqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11696710-69D4-4608-9215-5E22C55C4FFB}|EnigmatryFinancialDocument.Api\\EnigmatryFinancialDocument.Api.csproj|c:\\users\\korisnik\\source\\repos\\enigmatryfinancialdocument\\enigmatryfinancialdocument.api\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11696710-69D4-4608-9215-5E22C55C4FFB}|EnigmatryFinancialDocument.Api\\EnigmatryFinancialDocument.Api.csproj|solutionrelative:enigmatryfinancialdocument.api\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935CA85D-9411-4BBF-84BF-080B453CA666}|EnigmatryFinancialDocument.Domain\\EnigmatryFinancialDocument.Core.csproj|c:\\users\\korisnik\\source\\repos\\enigmatryfinancialdocument\\enigmatryfinancialdocument.domain\\interfaces\\services\\ianonymizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935CA85D-9411-4BBF-84BF-080B453CA666}|EnigmatryFinancialDocument.Domain\\EnigmatryFinancialDocument.Core.csproj|solutionrelative:enigmatryfinancialdocument.domain\\interfaces\\services\\ianonymizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6458E854-DEBB-427D-926D-4CA1FCC34B17}|EnigmatryFinancialDocument.Infrastructure\\EnigmatryFinancialDocument.Infrastructure.csproj|c:\\users\\korisnik\\source\\repos\\enigmatryfinancialdocument\\enigmatryfinancialdocument.infrastructure\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6458E854-DEBB-427D-926D-4CA1FCC34B17}|EnigmatryFinancialDocument.Infrastructure\\EnigmatryFinancialDocument.Infrastructure.csproj|solutionrelative:enigmatryfinancialdocument.infrastructure\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6458E854-DEBB-427D-926D-4CA1FCC34B17}|EnigmatryFinancialDocument.Infrastructure\\EnigmatryFinancialDocument.Infrastructure.csproj|c:\\users\\korisnik\\source\\repos\\enigmatryfinancialdocument\\enigmatryfinancialdocument.infrastructure\\services\\financialdocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6458E854-DEBB-427D-926D-4CA1FCC34B17}|EnigmatryFinancialDocument.Infrastructure\\EnigmatryFinancialDocument.Infrastructure.csproj|solutionrelative:enigmatryfinancialdocument.infrastructure\\services\\financialdocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6458E854-DEBB-427D-926D-4CA1FCC34B17}|EnigmatryFinancialDocument.Infrastructure\\EnigmatryFinancialDocument.Infrastructure.csproj|c:\\users\\korisnik\\source\\repos\\enigmatryfinancialdocument\\enigmatryfinancialdocument.infrastructure\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6458E854-DEBB-427D-926D-4CA1FCC34B17}|EnigmatryFinancialDocument.Infrastructure\\EnigmatryFinancialDocument.Infrastructure.csproj|solutionrelative:enigmatryfinancialdocument.infrastructure\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6458E854-DEBB-427D-926D-4CA1FCC34B17}|EnigmatryFinancialDocument.Infrastructure\\EnigmatryFinancialDocument.Infrastructure.csproj|c:\\users\\korisnik\\source\\repos\\enigmatryfinancialdocument\\enigmatryfinancialdocument.infrastructure\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6458E854-DEBB-427D-926D-4CA1FCC34B17}|EnigmatryFinancialDocument.Infrastructure\\EnigmatryFinancialDocument.Infrastructure.csproj|solutionrelative:enigmatryfinancialdocument.infrastructure\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935CA85D-9411-4BBF-84BF-080B453CA666}|EnigmatryFinancialDocument.Domain\\EnigmatryFinancialDocument.Core.csproj|c:\\users\\korisnik\\source\\repos\\enigmatryfinancialdocument\\enigmatryfinancialdocument.domain\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935CA85D-9411-4BBF-84BF-080B453CA666}|EnigmatryFinancialDocument.Domain\\EnigmatryFinancialDocument.Core.csproj|solutionrelative:enigmatryfinancialdocument.domain\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6458E854-DEBB-427D-926D-4CA1FCC34B17}|EnigmatryFinancialDocument.Infrastructure\\EnigmatryFinancialDocument.Infrastructure.csproj|c:\\users\\korisnik\\source\\repos\\enigmatryfinancialdocument\\enigmatryfinancialdocument.infrastructure\\services\\tenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6458E854-DEBB-427D-926D-4CA1FCC34B17}|EnigmatryFinancialDocument.Infrastructure\\EnigmatryFinancialDocument.Infrastructure.csproj|solutionrelative:enigmatryfinancialdocument.infrastructure\\services\\tenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935CA85D-9411-4BBF-84BF-080B453CA666}|EnigmatryFinancialDocument.Domain\\EnigmatryFinancialDocument.Core.csproj|c:\\users\\korisnik\\source\\repos\\enigmatryfinancialdocument\\enigmatryfinancialdocument.domain\\interfaces\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935CA85D-9411-4BBF-84BF-080B453CA666}|EnigmatryFinancialDocument.Domain\\EnigmatryFinancialDocument.Core.csproj|solutionrelative:enigmatryfinancialdocument.domain\\interfaces\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6458E854-DEBB-427D-926D-4CA1FCC34B17}|EnigmatryFinancialDocument.Infrastructure\\EnigmatryFinancialDocument.Infrastructure.csproj|c:\\users\\korisnik\\source\\repos\\enigmatryfinancialdocument\\enigmatryfinancialdocument.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6458E854-DEBB-427D-926D-4CA1FCC34B17}|EnigmatryFinancialDocument.Infrastructure\\EnigmatryFinancialDocument.Infrastructure.csproj|solutionrelative:enigmatryfinancialdocument.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11696710-69D4-4608-9215-5E22C55C4FFB}|EnigmatryFinancialDocument.Api\\EnigmatryFinancialDocument.Api.csproj|c:\\users\\korisnik\\source\\repos\\enigmatryfinancialdocument\\enigmatryfinancialdocument.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11696710-69D4-4608-9215-5E22C55C4FFB}|EnigmatryFinancialDocument.Api\\EnigmatryFinancialDocument.Api.csproj|solutionrelative:enigmatryfinancialdocument.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F1E49A-296E-4ABE-9655-8F1AB783424F}|EnigmatryFinancialDocument.Application\\EnigmatryFinancialDocument.Application.csproj|c:\\users\\korisnik\\source\\repos\\enigmatryfinancialdocument\\enigmatryfinancialdocument.application\\handlers\\client\\query\\getallclientsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11F1E49A-296E-4ABE-9655-8F1AB783424F}|EnigmatryFinancialDocument.Application\\EnigmatryFinancialDocument.Application.csproj|solutionrelative:enigmatryfinancialdocument.application\\handlers\\client\\query\\getallclientsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11696710-69D4-4608-9215-5E22C55C4FFB}|EnigmatryFinancialDocument.Api\\EnigmatryFinancialDocument.Api.csproj|c:\\users\\korisnik\\source\\repos\\enigmatryfinancialdocument\\enigmatryfinancialdocument.api\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11696710-69D4-4608-9215-5E22C55C4FFB}|EnigmatryFinancialDocument.Api\\EnigmatryFinancialDocument.Api.csproj|solutionrelative:enigmatryfinancialdocument.api\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F1E49A-296E-4ABE-9655-8F1AB783424F}|EnigmatryFinancialDocument.Application\\EnigmatryFinancialDocument.Application.csproj|c:\\users\\korisnik\\source\\repos\\enigmatryfinancialdocument\\enigmatryfinancialdocument.application\\handlers\\client\\query\\getallclientsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11F1E49A-296E-4ABE-9655-8F1AB783424F}|EnigmatryFinancialDocument.Application\\EnigmatryFinancialDocument.Application.csproj|solutionrelative:enigmatryfinancialdocument.application\\handlers\\client\\query\\getallclientsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935CA85D-9411-4BBF-84BF-080B453CA666}|EnigmatryFinancialDocument.Domain\\EnigmatryFinancialDocument.Core.csproj|c:\\users\\korisnik\\source\\repos\\enigmatryfinancialdocument\\enigmatryfinancialdocument.domain\\dtos\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935CA85D-9411-4BBF-84BF-080B453CA666}|EnigmatryFinancialDocument.Domain\\EnigmatryFinancialDocument.Core.csproj|solutionrelative:enigmatryfinancialdocument.domain\\dtos\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935CA85D-9411-4BBF-84BF-080B453CA666}|EnigmatryFinancialDocument.Domain\\EnigmatryFinancialDocument.Core.csproj|c:\\users\\korisnik\\source\\repos\\enigmatryfinancialdocument\\enigmatryfinancialdocument.domain\\dtos\\tenantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935CA85D-9411-4BBF-84BF-080B453CA666}|EnigmatryFinancialDocument.Domain\\EnigmatryFinancialDocument.Core.csproj|solutionrelative:enigmatryfinancialdocument.domain\\dtos\\tenantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935CA85D-9411-4BBF-84BF-080B453CA666}|EnigmatryFinancialDocument.Domain\\EnigmatryFinancialDocument.Core.csproj|c:\\users\\korisnik\\source\\repos\\enigmatryfinancialdocument\\enigmatryfinancialdocument.domain\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935CA85D-9411-4BBF-84BF-080B453CA666}|EnigmatryFinancialDocument.Domain\\EnigmatryFinancialDocument.Core.csproj|solutionrelative:enigmatryfinancialdocument.domain\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6458E854-DEBB-427D-926D-4CA1FCC34B17}|EnigmatryFinancialDocument.Infrastructure\\EnigmatryFinancialDocument.Infrastructure.csproj|c:\\users\\korisnik\\source\\repos\\enigmatryfinancialdocument\\enigmatryfinancialdocument.infrastructure\\repositories\\tenantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6458E854-DEBB-427D-926D-4CA1FCC34B17}|EnigmatryFinancialDocument.Infrastructure\\EnigmatryFinancialDocument.Infrastructure.csproj|solutionrelative:enigmatryfinancialdocument.infrastructure\\repositories\\tenantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F1E49A-296E-4ABE-9655-8F1AB783424F}|EnigmatryFinancialDocument.Application\\EnigmatryFinancialDocument.Application.csproj|c:\\users\\korisnik\\source\\repos\\enigmatryfinancialdocument\\enigmatryfinancialdocument.application\\handlers\\tenant\\query\\getalltenantsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11F1E49A-296E-4ABE-9655-8F1AB783424F}|EnigmatryFinancialDocument.Application\\EnigmatryFinancialDocument.Application.csproj|solutionrelative:enigmatryfinancialdocument.application\\handlers\\tenant\\query\\getalltenantsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F1E49A-296E-4ABE-9655-8F1AB783424F}|EnigmatryFinancialDocument.Application\\EnigmatryFinancialDocument.Application.csproj|c:\\users\\korisnik\\source\\repos\\enigmatryfinancialdocument\\enigmatryfinancialdocument.application\\handlers\\tenant\\query\\getalltenantsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11F1E49A-296E-4ABE-9655-8F1AB783424F}|EnigmatryFinancialDocument.Application\\EnigmatryFinancialDocument.Application.csproj|solutionrelative:enigmatryfinancialdocument.application\\handlers\\tenant\\query\\getalltenantsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11696710-69D4-4608-9215-5E22C55C4FFB}|EnigmatryFinancialDocument.Api\\EnigmatryFinancialDocument.Api.csproj|c:\\users\\korisnik\\source\\repos\\enigmatryfinancialdocument\\enigmatryfinancialdocument.api\\controllers\\tenantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11696710-69D4-4608-9215-5E22C55C4FFB}|EnigmatryFinancialDocument.Api\\EnigmatryFinancialDocument.Api.csproj|solutionrelative:enigmatryfinancialdocument.api\\controllers\\tenantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F1E49A-296E-4ABE-9655-8F1AB783424F}|EnigmatryFinancialDocument.Application\\EnigmatryFinancialDocument.Application.csproj|c:\\users\\korisnik\\source\\repos\\enigmatryfinancialdocument\\enigmatryfinancialdocument.application\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11F1E49A-296E-4ABE-9655-8F1AB783424F}|EnigmatryFinancialDocument.Application\\EnigmatryFinancialDocument.Application.csproj|solutionrelative:enigmatryfinancialdocument.application\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935CA85D-9411-4BBF-84BF-080B453CA666}|EnigmatryFinancialDocument.Domain\\EnigmatryFinancialDocument.Core.csproj|c:\\users\\korisnik\\source\\repos\\enigmatryfinancialdocument\\enigmatryfinancialdocument.domain\\entities\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935CA85D-9411-4BBF-84BF-080B453CA666}|EnigmatryFinancialDocument.Domain\\EnigmatryFinancialDocument.Core.csproj|solutionrelative:enigmatryfinancialdocument.domain\\entities\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935CA85D-9411-4BBF-84BF-080B453CA666}|EnigmatryFinancialDocument.Domain\\EnigmatryFinancialDocument.Core.csproj|c:\\users\\korisnik\\source\\repos\\enigmatryfinancialdocument\\enigmatryfinancialdocument.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935CA85D-9411-4BBF-84BF-080B453CA666}|EnigmatryFinancialDocument.Domain\\EnigmatryFinancialDocument.Core.csproj|solutionrelative:enigmatryfinancialdocument.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935CA85D-9411-4BBF-84BF-080B453CA666}|EnigmatryFinancialDocument.Domain\\EnigmatryFinancialDocument.Core.csproj|c:\\users\\korisnik\\source\\repos\\enigmatryfinancialdocument\\enigmatryfinancialdocument.domain\\entities\\findoc\\financialdocumentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935CA85D-9411-4BBF-84BF-080B453CA666}|EnigmatryFinancialDocument.Domain\\EnigmatryFinancialDocument.Core.csproj|solutionrelative:enigmatryfinancialdocument.domain\\entities\\findoc\\financialdocumentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935CA85D-9411-4BBF-84BF-080B453CA666}|EnigmatryFinancialDocument.Domain\\EnigmatryFinancialDocument.Core.csproj|c:\\users\\korisnik\\source\\repos\\enigmatryfinancialdocument\\enigmatryfinancialdocument.domain\\interfaces\\repositories\\itenantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935CA85D-9411-4BBF-84BF-080B453CA666}|EnigmatryFinancialDocument.Domain\\EnigmatryFinancialDocument.Core.csproj|solutionrelative:enigmatryfinancialdocument.domain\\interfaces\\repositories\\itenantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935CA85D-9411-4BBF-84BF-080B453CA666}|EnigmatryFinancialDocument.Domain\\EnigmatryFinancialDocument.Core.csproj|c:\\users\\korisnik\\source\\repos\\enigmatryfinancialdocument\\enigmatryfinancialdocument.domain\\entities\\findoc\\financialdocumentbuilderbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935CA85D-9411-4BBF-84BF-080B453CA666}|EnigmatryFinancialDocument.Domain\\EnigmatryFinancialDocument.Core.csproj|solutionrelative:enigmatryfinancialdocument.domain\\entities\\findoc\\financialdocumentbuilderbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935CA85D-9411-4BBF-84BF-080B453CA666}|EnigmatryFinancialDocument.Domain\\EnigmatryFinancialDocument.Core.csproj|c:\\users\\korisnik\\source\\repos\\enigmatryfinancialdocument\\enigmatryfinancialdocument.domain\\entities\\findoc\\builder\\productbfinancialdocumentbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935CA85D-9411-4BBF-84BF-080B453CA666}|EnigmatryFinancialDocument.Domain\\EnigmatryFinancialDocument.Core.csproj|solutionrelative:enigmatryfinancialdocument.domain\\entities\\findoc\\builder\\productbfinancialdocumentbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935CA85D-9411-4BBF-84BF-080B453CA666}|EnigmatryFinancialDocument.Domain\\EnigmatryFinancialDocument.Core.csproj|c:\\users\\korisnik\\source\\repos\\enigmatryfinancialdocument\\enigmatryfinancialdocument.domain\\entities\\findoc\\builder\\productafinancialdocumentbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935CA85D-9411-4BBF-84BF-080B453CA666}|EnigmatryFinancialDocument.Domain\\EnigmatryFinancialDocument.Core.csproj|solutionrelative:enigmatryfinancialdocument.domain\\entities\\findoc\\builder\\productafinancialdocumentbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6458E854-DEBB-427D-926D-4CA1FCC34B17}|EnigmatryFinancialDocument.Infrastructure\\EnigmatryFinancialDocument.Infrastructure.csproj|c:\\users\\korisnik\\source\\repos\\enigmatryfinancialdocument\\enigmatryfinancialdocument.infrastructure\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6458E854-DEBB-427D-926D-4CA1FCC34B17}|EnigmatryFinancialDocument.Infrastructure\\EnigmatryFinancialDocument.Infrastructure.csproj|solutionrelative:enigmatryfinancialdocument.infrastructure\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6458E854-DEBB-427D-926D-4CA1FCC34B17}|EnigmatryFinancialDocument.Infrastructure\\EnigmatryFinancialDocument.Infrastructure.csproj|c:\\users\\korisnik\\source\\repos\\enigmatryfinancialdocument\\enigmatryfinancialdocument.infrastructure\\services\\anonymizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6458E854-DEBB-427D-926D-4CA1FCC34B17}|EnigmatryFinancialDocument.Infrastructure\\EnigmatryFinancialDocument.Infrastructure.csproj|solutionrelative:enigmatryfinancialdocument.infrastructure\\services\\anonymizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6458E854-DEBB-427D-926D-4CA1FCC34B17}|EnigmatryFinancialDocument.Infrastructure\\EnigmatryFinancialDocument.Infrastructure.csproj|c:\\users\\korisnik\\source\\repos\\enigmatryfinancialdocument\\enigmatryfinancialdocument.infrastructure\\repositories\\financialdocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6458E854-DEBB-427D-926D-4CA1FCC34B17}|EnigmatryFinancialDocument.Infrastructure\\EnigmatryFinancialDocument.Infrastructure.csproj|solutionrelative:enigmatryfinancialdocument.infrastructure\\repositories\\financialdocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6458E854-DEBB-427D-926D-4CA1FCC34B17}|EnigmatryFinancialDocument.Infrastructure\\EnigmatryFinancialDocument.Infrastructure.csproj|c:\\users\\korisnik\\source\\repos\\enigmatryfinancialdocument\\enigmatryfinancialdocument.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6458E854-DEBB-427D-926D-4CA1FCC34B17}|EnigmatryFinancialDocument.Infrastructure\\EnigmatryFinancialDocument.Infrastructure.csproj|solutionrelative:enigmatryfinancialdocument.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935CA85D-9411-4BBF-84BF-080B453CA666}|EnigmatryFinancialDocument.Domain\\EnigmatryFinancialDocument.Core.csproj|c:\\users\\korisnik\\source\\repos\\enigmatryfinancialdocument\\enigmatryfinancialdocument.domain\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935CA85D-9411-4BBF-84BF-080B453CA666}|EnigmatryFinancialDocument.Domain\\EnigmatryFinancialDocument.Core.csproj|solutionrelative:enigmatryfinancialdocument.domain\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetFinancialDocumentQueryHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Test\\GetFinancialDocumentQueryHandlerTests.cs",
+              "RelativeDocumentMoniker": "EnigmatryFinancialDocument.Test\\GetFinancialDocumentQueryHandlerTests.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Test\\GetFinancialDocumentQueryHandlerTests.cs",
+              "RelativeToolTip": "EnigmatryFinancialDocument.Test\\GetFinancialDocumentQueryHandlerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T16:20:51.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FinancialDocumentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Api\\Controllers\\FinancialDocumentsController.cs",
+              "RelativeDocumentMoniker": "EnigmatryFinancialDocument.Api\\Controllers\\FinancialDocumentsController.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Api\\Controllers\\FinancialDocumentsController.cs",
+              "RelativeToolTip": "EnigmatryFinancialDocument.Api\\Controllers\\FinancialDocumentsController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAApwCgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:19:56.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAnonymizationService.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Domain\\Interfaces\\Services\\IAnonymizationService.cs",
+              "RelativeDocumentMoniker": "EnigmatryFinancialDocument.Domain\\Interfaces\\Services\\IAnonymizationService.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Domain\\Interfaces\\Services\\IAnonymizationService.cs",
+              "RelativeToolTip": "EnigmatryFinancialDocument.Domain\\Interfaces\\Services\\IAnonymizationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:40:36.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetFinancialDocumentQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Application\\Handlers\\FinancialDocument\\Query\\GetFinancialDocumentQueryHandler.cs",
+              "RelativeDocumentMoniker": "EnigmatryFinancialDocument.Application\\Handlers\\FinancialDocument\\Query\\GetFinancialDocumentQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Application\\Handlers\\FinancialDocument\\Query\\GetFinancialDocumentQueryHandler.cs",
+              "RelativeToolTip": "EnigmatryFinancialDocument.Application\\Handlers\\FinancialDocument\\Query\\GetFinancialDocumentQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T06:41:28.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompanyDto.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Domain\\DTOs\\CompanyDto.cs",
+              "RelativeDocumentMoniker": "EnigmatryFinancialDocument.Domain\\DTOs\\CompanyDto.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Domain\\DTOs\\CompanyDto.cs",
+              "RelativeToolTip": "EnigmatryFinancialDocument.Domain\\DTOs\\CompanyDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:36:24.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FinancialDocumentResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Application\\Handlers\\FinancialDocument\\Query\\FinancialDocumentResponse.cs",
+              "RelativeDocumentMoniker": "EnigmatryFinancialDocument.Application\\Handlers\\FinancialDocument\\Query\\FinancialDocumentResponse.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Application\\Handlers\\FinancialDocument\\Query\\FinancialDocumentResponse.cs",
+              "RelativeToolTip": "EnigmatryFinancialDocument.Application\\Handlers\\FinancialDocument\\Query\\FinancialDocumentResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:41:40.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IClientService.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Domain\\Interfaces\\Services\\IClientService.cs",
+              "RelativeDocumentMoniker": "EnigmatryFinancialDocument.Domain\\Interfaces\\Services\\IClientService.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Domain\\Interfaces\\Services\\IClientService.cs",
+              "RelativeToolTip": "EnigmatryFinancialDocument.Domain\\Interfaces\\Services\\IClientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T15:38:40.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FinancialDocumentService.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Infrastructure\\Services\\FinancialDocumentService.cs",
+              "RelativeDocumentMoniker": "EnigmatryFinancialDocument.Infrastructure\\Services\\FinancialDocumentService.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Infrastructure\\Services\\FinancialDocumentService.cs",
+              "RelativeToolTip": "EnigmatryFinancialDocument.Infrastructure\\Services\\FinancialDocumentService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwBcAAACmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T06:41:18.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Infrastructure\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "EnigmatryFinancialDocument.Infrastructure\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Infrastructure\\Services\\ProductService.cs",
+              "RelativeToolTip": "EnigmatryFinancialDocument.Infrastructure\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:25:12.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Infrastructure\\Services\\ClientService.cs",
+              "RelativeDocumentMoniker": "EnigmatryFinancialDocument.Infrastructure\\Services\\ClientService.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Infrastructure\\Services\\ClientService.cs",
+              "RelativeToolTip": "EnigmatryFinancialDocument.Infrastructure\\Services\\ClientService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwCAAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:09:45.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Infrastructure\\Repositories\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "EnigmatryFinancialDocument.Infrastructure\\Repositories\\ClientRepository.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Infrastructure\\Repositories\\ClientRepository.cs",
+              "RelativeToolTip": "EnigmatryFinancialDocument.Infrastructure\\Repositories\\ClientRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwCAAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:17:16.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Api\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "EnigmatryFinancialDocument.Api\\Middlewares\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Api\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "EnigmatryFinancialDocument.Api\\Middlewares\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA7wBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T16:17:37.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Domain\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "EnigmatryFinancialDocument.Domain\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Domain\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "EnigmatryFinancialDocument.Domain\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T15:59:37.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Domain\\Interfaces\\Repositories\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "EnigmatryFinancialDocument.Domain\\Interfaces\\Repositories\\IClientRepository.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Domain\\Interfaces\\Repositories\\IClientRepository.cs",
+              "RelativeToolTip": "EnigmatryFinancialDocument.Domain\\Interfaces\\Repositories\\IClientRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:09:51.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Infrastructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EnigmatryFinancialDocument.Infrastructure\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Infrastructure\\AppDbContext.cs",
+              "RelativeToolTip": "EnigmatryFinancialDocument.Infrastructure\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T08:56:40.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TenantService.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Infrastructure\\Services\\TenantService.cs",
+              "RelativeDocumentMoniker": "EnigmatryFinancialDocument.Infrastructure\\Services\\TenantService.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Infrastructure\\Services\\TenantService.cs",
+              "RelativeToolTip": "EnigmatryFinancialDocument.Infrastructure\\Services\\TenantService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwBQAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:11:22.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Api\\Program.cs",
+              "RelativeDocumentMoniker": "EnigmatryFinancialDocument.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Api\\Program.cs",
+              "RelativeToolTip": "EnigmatryFinancialDocument.Api\\Program.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAcwFoAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T08:59:03.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetAllClientsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Application\\Handlers\\Client\\Query\\GetAllClientsQueryHandler.cs",
+              "RelativeDocumentMoniker": "EnigmatryFinancialDocument.Application\\Handlers\\Client\\Query\\GetAllClientsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Application\\Handlers\\Client\\Query\\GetAllClientsQueryHandler.cs",
+              "RelativeToolTip": "EnigmatryFinancialDocument.Application\\Handlers\\Client\\Query\\GetAllClientsQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:52:34.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Api\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "EnigmatryFinancialDocument.Api\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Api\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "EnigmatryFinancialDocument.Api\\Controllers\\ClientController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:50:53.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetAllClientsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Application\\Handlers\\Client\\Query\\GetAllClientsQuery.cs",
+              "RelativeDocumentMoniker": "EnigmatryFinancialDocument.Application\\Handlers\\Client\\Query\\GetAllClientsQuery.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Application\\Handlers\\Client\\Query\\GetAllClientsQuery.cs",
+              "RelativeToolTip": "EnigmatryFinancialDocument.Application\\Handlers\\Client\\Query\\GetAllClientsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:51:52.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ClientDto.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Domain\\DTOs\\ClientDto.cs",
+              "RelativeDocumentMoniker": "EnigmatryFinancialDocument.Domain\\DTOs\\ClientDto.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Domain\\DTOs\\ClientDto.cs",
+              "RelativeToolTip": "EnigmatryFinancialDocument.Domain\\DTOs\\ClientDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:59:39.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Domain\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "EnigmatryFinancialDocument.Domain\\Entities\\Client.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Domain\\Entities\\Client.cs",
+              "RelativeToolTip": "EnigmatryFinancialDocument.Domain\\Entities\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:06:00.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetAllTenantsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Application\\Handlers\\Tenant\\Query\\GetAllTenantsQueryHandler.cs",
+              "RelativeDocumentMoniker": "EnigmatryFinancialDocument.Application\\Handlers\\Tenant\\Query\\GetAllTenantsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Application\\Handlers\\Tenant\\Query\\GetAllTenantsQueryHandler.cs",
+              "RelativeToolTip": "EnigmatryFinancialDocument.Application\\Handlers\\Tenant\\Query\\GetAllTenantsQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:35:18.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetAllTenantsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Application\\Handlers\\Tenant\\Query\\GetAllTenantsQuery.cs",
+              "RelativeDocumentMoniker": "EnigmatryFinancialDocument.Application\\Handlers\\Tenant\\Query\\GetAllTenantsQuery.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Application\\Handlers\\Tenant\\Query\\GetAllTenantsQuery.cs",
+              "RelativeToolTip": "EnigmatryFinancialDocument.Application\\Handlers\\Tenant\\Query\\GetAllTenantsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:48:52.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TenantDto.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Domain\\DTOs\\TenantDto.cs",
+              "RelativeDocumentMoniker": "EnigmatryFinancialDocument.Domain\\DTOs\\TenantDto.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Domain\\DTOs\\TenantDto.cs",
+              "RelativeToolTip": "EnigmatryFinancialDocument.Domain\\DTOs\\TenantDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:46:31.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Application\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "EnigmatryFinancialDocument.Application\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Application\\MappingProfile.cs",
+              "RelativeToolTip": "EnigmatryFinancialDocument.Application\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:16:55.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TenantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Infrastructure\\Repositories\\TenantRepository.cs",
+              "RelativeDocumentMoniker": "EnigmatryFinancialDocument.Infrastructure\\Repositories\\TenantRepository.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Infrastructure\\Repositories\\TenantRepository.cs",
+              "RelativeToolTip": "EnigmatryFinancialDocument.Infrastructure\\Repositories\\TenantRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAArwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:12:24.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Tenant.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Domain\\Entities\\Tenant.cs",
+              "RelativeDocumentMoniker": "EnigmatryFinancialDocument.Domain\\Entities\\Tenant.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Domain\\Entities\\Tenant.cs",
+              "RelativeToolTip": "EnigmatryFinancialDocument.Domain\\Entities\\Tenant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T10:24:17.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "EnigmatryFinancialDocument.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "EnigmatryFinancialDocument.Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T10:18:28.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TenantController.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Api\\Controllers\\TenantController.cs",
+              "RelativeDocumentMoniker": "EnigmatryFinancialDocument.Api\\Controllers\\TenantController.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Api\\Controllers\\TenantController.cs",
+              "RelativeToolTip": "EnigmatryFinancialDocument.Api\\Controllers\\TenantController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:43:05.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FinancialDocumentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Domain\\Entities\\FinDoc\\FinancialDocumentFactory.cs",
+              "RelativeDocumentMoniker": "EnigmatryFinancialDocument.Domain\\Entities\\FinDoc\\FinancialDocumentFactory.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Domain\\Entities\\FinDoc\\FinancialDocumentFactory.cs",
+              "RelativeToolTip": "EnigmatryFinancialDocument.Domain\\Entities\\FinDoc\\FinancialDocumentFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T10:43:44.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ITenantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Domain\\Interfaces\\Repositories\\ITenantRepository.cs",
+              "RelativeDocumentMoniker": "EnigmatryFinancialDocument.Domain\\Interfaces\\Repositories\\ITenantRepository.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Domain\\Interfaces\\Repositories\\ITenantRepository.cs",
+              "RelativeToolTip": "EnigmatryFinancialDocument.Domain\\Interfaces\\Repositories\\ITenantRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:36:49.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DataSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Infrastructure\\DataSeeder.cs",
+              "RelativeDocumentMoniker": "EnigmatryFinancialDocument.Infrastructure\\DataSeeder.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Infrastructure\\DataSeeder.cs",
+              "RelativeToolTip": "EnigmatryFinancialDocument.Infrastructure\\DataSeeder.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAADgvzkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T15:11:59.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProductBFinancialDocumentBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Domain\\Entities\\FinDoc\\Builder\\ProductBFinancialDocumentBuilder.cs",
+              "RelativeDocumentMoniker": "EnigmatryFinancialDocument.Domain\\Entities\\FinDoc\\Builder\\ProductBFinancialDocumentBuilder.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Domain\\Entities\\FinDoc\\Builder\\ProductBFinancialDocumentBuilder.cs",
+              "RelativeToolTip": "EnigmatryFinancialDocument.Domain\\Entities\\FinDoc\\Builder\\ProductBFinancialDocumentBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T10:35:30.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProductAFinancialDocumentBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Domain\\Entities\\FinDoc\\Builder\\ProductAFinancialDocumentBuilder.cs",
+              "RelativeDocumentMoniker": "EnigmatryFinancialDocument.Domain\\Entities\\FinDoc\\Builder\\ProductAFinancialDocumentBuilder.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Domain\\Entities\\FinDoc\\Builder\\ProductAFinancialDocumentBuilder.cs",
+              "RelativeToolTip": "EnigmatryFinancialDocument.Domain\\Entities\\FinDoc\\Builder\\ProductAFinancialDocumentBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T10:42:29.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FinancialDocumentBuilderBase.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Domain\\Entities\\FinDoc\\FinancialDocumentBuilderBase.cs",
+              "RelativeDocumentMoniker": "EnigmatryFinancialDocument.Domain\\Entities\\FinDoc\\FinancialDocumentBuilderBase.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Domain\\Entities\\FinDoc\\FinancialDocumentBuilderBase.cs",
+              "RelativeToolTip": "EnigmatryFinancialDocument.Domain\\Entities\\FinDoc\\FinancialDocumentBuilderBase.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAADwvykAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T06:39:51.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AnonymizationService.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Infrastructure\\Services\\AnonymizationService.cs",
+              "RelativeDocumentMoniker": "EnigmatryFinancialDocument.Infrastructure\\Services\\AnonymizationService.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Infrastructure\\Services\\AnonymizationService.cs",
+              "RelativeToolTip": "EnigmatryFinancialDocument.Infrastructure\\Services\\AnonymizationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T06:41:10.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FinancialDocumentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Infrastructure\\Repositories\\FinancialDocumentRepository.cs",
+              "RelativeDocumentMoniker": "EnigmatryFinancialDocument.Infrastructure\\Repositories\\FinancialDocumentRepository.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Infrastructure\\Repositories\\FinancialDocumentRepository.cs",
+              "RelativeToolTip": "EnigmatryFinancialDocument.Infrastructure\\Repositories\\FinancialDocumentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:16:15.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "EnigmatryFinancialDocument.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "EnigmatryFinancialDocument.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:14:26.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Domain\\Entities\\Transaction.cs",
+              "RelativeDocumentMoniker": "EnigmatryFinancialDocument.Domain\\Entities\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\EnigmatryFinancialDocument\\EnigmatryFinancialDocument.Domain\\Entities\\Transaction.cs",
+              "RelativeToolTip": "EnigmatryFinancialDocument.Domain\\Entities\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T06:38:21.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
